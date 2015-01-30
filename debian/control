@@ -1,0 +1,12 @@
+Source: libi2cdisplay
+Section: libraries
+Priority: extra
+XBSC-Group: Display
+Maintainer: Matt Jenkins <matt@majenko.co.uk>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.4
+
+Package: libi2cdisplay
+Architecture: all
+Description: I2CDisplay library
+
